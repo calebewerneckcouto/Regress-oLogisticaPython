@@ -1,30 +1,21 @@
-describing the purpose, dataset, and contents of the repository.
+Microsoft Excel, Python com pandas, R, etc.) para explorar e analisar os dados.
+3. Utilize técnicas de processamento e análise de dados para extrair insights relevantes dos dados fornecidos.
 
-## Finalidade
-Este repositório foi criado com o objetivo de facilitar o acesso e a análise de dados relacionados ao comportamento de compra dos usuários em uma rede social, através de informações demográficas como idade e salário estimado.
+## Estrutura do Repositório
+Este repositório contém os seguintes arquivos e diretórios:
+- `Social_Network_Ads.csv`: Este arquivo contém o dataset principal utilizado para a análise. Inclui informações demográficas dos usuários, como idade e salário estimado, além de dados sobre suas compras.
+- `.gitignore`: Configurações do Git para ignorar arquivos que não devem ser incluídos no controle de versão, como arquivos temporários ou de ambiente de desenvolvimento.
+- `README.md`: Documentação detalhada que descreve a finalidade, o dataset e os conteúdos do repositório.
 
-## Descrição do Repositório
-- `.gitignore`: O arquivo foi configurado para ignorar arquivos e diretórios que não devem ser controlados pelo versionamento com Git, o que inclui o diretório de ambiente virtual Python `venv/`.
-- `README.md`: Este arquivo, que oferece uma visão geral, descrição dos dados e descrição dos arquivos presentes no repositório.
-
-## Como Usar
-Para utilizar os dados contidos neste repositório para análises e previsões de comportamento de compra dos usuários:
-1. Clone o repositório em sua máquina local usando Git.
-2. Abra o arquivo `Social_Network_Ads.csv` em um software de manipulação de dados de sua preferência (como Python Pandas, Excel, R, entre outros).
-3. Realize as análises necessárias para explorar como a idade e o salário estimado influenciam na decisão de compra dos produtos.
-
-## Contribuições
-Contribuições para o projeto são sempre bem-vindas. Para contribuir:
-1. Faça um fork do repositório.
-2. Crie uma nova branch para suas alterações.
-3. Faça o commit de suas modificações.
-4. Envie um pull request para a branch principal deste repositório.
+## Requisitos
+- Git: Necessário para clonar e gerenciar o repositório.
+- Software para manipulação de dados: Necessário para abrir e trabalhar com o arquivo CSV, como Microsoft Excel, ferramentas de python para análise de dados como pandas, ou softwares de estatística como R.
 
 ## Licença
-Este projeto está licenciado sob os termos da Licença MIT. Consulte o arquivo de LICENÇA no repositório para mais detalhes.
+Este repositório é distribuído sob a licença MIT, permitindo uso livre, cópia, modificação e distribuição dos materiais da forma que os usuários vejam adequado, desde que respeitando os termos da licença.
 
 ## Contato
-Para mais informações, entre em contato com o mantenedor do repositório através do endereço de e-mail: [seu-email@example.com]
+Para mais informações, sugestões ou questões sobre a análise de dados, sinta-se livre para abrir uma issue neste repositório ou enviar uma mensagem para o proprietário do repositório.
 
-## Conclusão
-Esperamos que este repositório lhe seja útil para entender e analisar os padrões de comportamento de compra de usuários em redes sociais, e como esses padrões variam com a idade e o salário estimado. Boas análises!
+## Contribuições
+Contribuições no repositório são sempre bem-vindas. Para contribuir, você pode realizar um fork do repositório, fazer suas alterações e solicitar um pull request para que suas melhorias sejam incorporadas.
